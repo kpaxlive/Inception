@@ -1,0 +1,10 @@
+WP_URL=fayan.42.fr
+WP_TITLE=wordpress
+
+WP_ADMIN_LOGIN=superuser
+WP_ADMIN_PASSWORD=superuser
+WP_ADMIN_EMAIL=superuser@42.fr
+
+WP_USER_LOGIN=fayan
+WP_USER_PASSWORD=12345
+WP_USER_EMAIL=fayan@42.fr
